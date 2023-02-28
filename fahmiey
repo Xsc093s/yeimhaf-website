@@ -1,0 +1,6 @@
+import os
+from random import choice
+
+def pilih():
+ pilihan = ['']
+ print('\r\n\t')
